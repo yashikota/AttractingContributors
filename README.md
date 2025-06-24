@@ -7,3 +7,6 @@ e.g. VSCode, Vim, Emacs, etc...
 
 - VSCode
 - サクラエディタ (Sakura Editor)
+- Mery
+- PyCharm
+- Vim
