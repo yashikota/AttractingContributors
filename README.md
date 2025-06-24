@@ -7,3 +7,5 @@ e.g. VSCode, Vim, Emacs, etc...
 
 - VSCode
 - Mery
+- PyCharm
+- Vim
