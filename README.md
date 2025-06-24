@@ -6,5 +6,6 @@ e.g. VSCode, Vim, Emacs, etc...
 # List of editor
 
 - VSCode
+- Mery
 - PyCharm
 - Vim
