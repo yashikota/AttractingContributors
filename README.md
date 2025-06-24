@@ -11,3 +11,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - PyCharm
 - Vim
 - JetBrains Rider
+- Notepad++
