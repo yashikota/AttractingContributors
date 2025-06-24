@@ -15,3 +15,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - Visual Studio
 - VSCode
 - Only handwriting wins👊
+- Visual Studio
