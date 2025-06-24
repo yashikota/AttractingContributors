@@ -6,6 +6,7 @@ e.g. VSCode, Vim, Emacs, etc...
 # List of editor
 
 - VSCode
+- サクラエディタ (Sakura Editor)
 - Mery
 - PyCharm
 - Vim
