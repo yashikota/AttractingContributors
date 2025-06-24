@@ -12,3 +12,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - Vim
 - JetBrains Rider
 - Notepad++
+- Visual Studio
