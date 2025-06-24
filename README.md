@@ -10,3 +10,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - Mery
 - PyCharm
 - Vim
+- JetBrains Rider
