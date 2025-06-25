@@ -17,3 +17,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - Only handwriting wins👊
 - Visual Studio
 - VSCode😂
+- VSCode
