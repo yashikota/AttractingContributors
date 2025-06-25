@@ -18,3 +18,5 @@ e.g. VSCode, Vim, Emacs, etc...
 - Visual Studio
 - VSCode😂
 - VSCode
+
+- VSCode
