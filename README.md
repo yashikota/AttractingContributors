@@ -20,3 +20,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - VSCode
 - VSCode
 - Notepad++
+- VSCode
