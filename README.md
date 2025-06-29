@@ -21,3 +21,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - VSCode
 - Notepad++
 - VSCode
+- 秀丸
