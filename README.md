@@ -22,3 +22,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - Notepad++
 - VSCode
 - 秀丸 (Hidemaru Editor)
+- windows memo
