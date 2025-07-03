@@ -12,6 +12,7 @@ e.g. VSCode, Vim, Emacs, etc...
 - Vim
 - JetBrains Rider
 - Notepad++
+- Sublime Text
 - Visual Studio
 - VSCode
 - Only handwriting wins👊
