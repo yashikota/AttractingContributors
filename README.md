@@ -24,3 +24,4 @@ e.g. VSCode, Vim, Emacs, etc...
 - VSCode
 - 秀丸 (Hidemaru Editor)
 - Windows Notepad
+- Cursor
